@@ -1,0 +1,6 @@
+{
+  "models": [
+    "granite-embedding:latest",
+    "nomic-embed-text"
+  ]
+}
